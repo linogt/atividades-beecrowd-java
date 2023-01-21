@@ -1,8 +1,5 @@
 /*
-Calcule o consumo médio de um automóvel tendo em conta a distância total percorrida (em Km) e o total de combustível gasto (em litros).
-
-Entrada
-O arquivo de entrada contém dois valores: um valor inteiro X representando a distância total (em Km) e o segundo é um número de ponto flutuante Y  representando o total de combustível gasto, com um dígito após o ponto decimal.
+https://www.beecrowd.com.br/judge/en/problems/view/1014
 */
 import java.util.Scanner;
 import java.io.IOException;

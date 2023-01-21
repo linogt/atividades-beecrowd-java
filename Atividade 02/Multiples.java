@@ -1,5 +1,4 @@
-/*
-Read two nteger values (A and B). After, the program should print the message "Sao Multiplos" (are multiples) or "Nao sao Multiplos" (aren’t multiples), corresponding to the read values.
+/*https://www.beecrowd.com.br/judge/en/problems/view/1044
 */
 import java.io.IOException;
 import java.util.Scanner;

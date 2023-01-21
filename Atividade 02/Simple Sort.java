@@ -1,4 +1,4 @@
-/*Read three integers and sort them in ascending order. After, print these values in ascending order, a blank line and then the values in the sequence as they were readed.
+/*https://www.beecrowd.com.br/judge/en/problems/view/1042
 */
 
 import java.io.IOException;

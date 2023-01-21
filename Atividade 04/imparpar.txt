@@ -1,0 +1,16 @@
+using System;
+
+class Program {
+    static void Main(string[] args) {
+        Console.WriteLine("Insira um valor:"); 
+        int n = int.Parse(Console.ReadLine());
+      
+        if(n%2==0){
+            Console.WriteLine("O número " + n + " é Par.");
+        }
+        else{
+            Console.WriteLine("O número " + n + " é Impar.");
+        }
+    }
+}
+

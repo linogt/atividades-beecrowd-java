@@ -1,13 +1,5 @@
 /*
-Faça um programa que leia três valores de ponto flutuante: A, B e C. Em seguida, calcule e mostre:
-a) a área do triângulo retângulo de base A e altura C.
-b) a área do círculo de raio C. (pi = 3,14159)
-c) a área do trapézio que tem A e B por base e C por altura.
-d) a área do quadrado que tem lado B.
-e) a área do retângulo que tem lados A e B.
-
-Entrada
-O arquivo de entrada contém três valores duplos com um dígito após o ponto decimal.
+https://www.beecrowd.com.br/judge/en/problems/view/1012
 */
 import java.util.Scanner;
 import java.io.IOException;

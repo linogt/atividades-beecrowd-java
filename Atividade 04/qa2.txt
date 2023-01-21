@@ -1,0 +1,21 @@
+Coleta de Requisitos -> Cenarios de Aceitação
+Especificação -> Cenarios de Sistemas
+Arquitetura -> Testes de Unidade e Integração
+Codificação -> Testes de Sistema, Aceitação, Alfa, Beta
+
+Boas Praticas - Não Tecnicas
+->testador especialista especifica os cenarios de teste
+
+Boas Práticas - Tecnicas
+->Explore cenários fora do plano de teste
+->Detalhe ao máximo o relatorio
+->Falha corrigida, reteste
+->Busque padroes ao reportar uma falha
+->Proj4me, Jira, Bugzilla, Trac
+->Formularios, Campo em branco, campo com valor invalido, quant caractere, email invalido, mensagens de erro coerentes
+->Calculos: Valores + - 0 intervalos abertos fechados limites
+
+Custo de falhas
+-> Quanto antes mais barato 
+
+
